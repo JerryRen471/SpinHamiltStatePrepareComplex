@@ -1,0 +1,15 @@
+__pycache__/
+.idea/
+DMRG/
+ED/
+
+
+*.npy
+*.data
+*.log
+*.rar
+
+*.py
+!AllTimeEvolutionRandomField.py
+!state_prepare_fun.py
+!try.py
